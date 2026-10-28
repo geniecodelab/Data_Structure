@@ -1,0 +1,4 @@
+run
+*.o
+log.txt
+demo_out/

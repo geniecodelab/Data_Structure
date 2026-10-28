@@ -1,0 +1,161 @@
+========LOAD========
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/night bus/4:02
+Nova/first light/3:18
+Nova/glass/2:59
+Nova/tidal/3:33
+Reed/night bus/3:47
+Reed/saltwater/4:09
+Echo Park/quiet town/3:20
+Echo Park/paper boats/3:11
+Orbit/signal/3:08
+Orbit/drift/3:56
+=====================
+
+========ERROR========
+100
+=====================
+
+========ADD========
+Lumen/afterglow/3:29
+=====================
+
+========ERROR========
+200
+=====================
+
+========QPOP========
+Success
+=====================
+
+========ERROR========
+300
+=====================
+
+========SEARCH========
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/night bus/4:02
+Lumen/afterglow/3:29
+=====================
+
+========SEARCH========
+Lumen/first light/3:41
+Nova/first light/3:18
+=====================
+
+========SEARCH========
+Nova/glass/2:59
+=====================
+
+========ERROR========
+400
+=====================
+
+========MAKEPL=======
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/night bus/4:02
+Lumen/afterglow/3:29
+Count : 4 / 10
+Time : 14min 17sec
+=====================
+
+========ERROR========
+500
+=====================
+
+========MAKEPL=======
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/night bus/4:02
+Lumen/afterglow/3:29
+Orbit/drift/3:56
+Count : 5 / 10
+Time : 18min 13sec
+=====================
+
+========ERROR========
+500
+=====================
+
+========PRINT========
+ArtistBST
+Echo Park/quiet town/3:20
+Echo Park/paper boats/3:11
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/night bus/4:02
+Lumen/afterglow/3:29
+Nova/first light/3:18
+Nova/glass/2:59
+Nova/tidal/3:33
+Orbit/signal/3:08
+Orbit/drift/3:56
+Reed/night bus/3:47
+Reed/saltwater/4:09
+=====================
+
+========Print========
+TitleBST
+Lumen/afterglow/3:29
+Orbit/drift/3:56
+Lumen/first light/3:41
+Nova/first light/3:18
+Nova/glass/2:59
+Lumen/night bus/4:02
+Reed/night bus/3:47
+Lumen/paper boats/3:05
+Echo Park/paper boats/3:11
+Echo Park/quiet town/3:20
+Reed/saltwater/4:09
+Orbit/signal/3:08
+Nova/tidal/3:33
+=====================
+
+========Print========
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/night bus/4:02
+Lumen/afterglow/3:29
+Orbit/drift/3:56
+Count : 5 / 10
+Time : 18min 13sec
+
+=====================
+
+========DELETE========
+Success
+=====================
+
+========DELETE========
+Success
+=====================
+
+========DELETE========
+Success
+======================
+
+========ERROR========
+700
+=====================
+
+========Print========
+Lumen/first light/3:41
+Lumen/paper boats/3:05
+Lumen/afterglow/3:29
+Orbit/drift/3:56
+Count : 4 / 10
+Time : 14min 11sec
+
+=====================
+
+========ERROR========
+1000
+=====================
+
+========EXIT========
+Success
+====================
+

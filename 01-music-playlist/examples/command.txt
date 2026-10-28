@@ -1,0 +1,24 @@
+LOAD
+LOAD
+ADD Lumen|afterglow|3:29
+ADD Nova|tidal|3:33
+QPOP
+QPOP
+SEARCH ARTIST Lumen
+SEARCH TITLE first light
+SEARCH SONG Nova|glass
+SEARCH SONG Nova|missing
+MAKEPL ARTIST Lumen
+MAKEPL TITLE first light
+MAKEPL SONG Orbit|drift
+MAKEPL SONG Orbit|nothing
+PRINT ARTIST
+PRINT TITLE
+PRINT LIST
+DELETE LIST Lumen|night bus
+DELETE SONG Reed|night bus
+DELETE ARTIST Echo Park
+DELETE ARTIST Echo Park
+PRINT LIST
+FOO
+EXIT
